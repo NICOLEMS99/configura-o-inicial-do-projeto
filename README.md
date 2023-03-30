@@ -10,7 +10,7 @@
 
 <h2> Linguagem utilizada:</h2> <br>
 
-Android Studi
+Android Studio
 
 <h2>Execução do app:</h2>
 
